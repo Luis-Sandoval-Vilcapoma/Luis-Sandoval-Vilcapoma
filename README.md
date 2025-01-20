@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Luis-Sandoval-Vilcapoma/Luis-Sandoval-Vilcapoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fun facts about me:
 
-Here are some ideas to get you started:
+- 🌱 Agricultural Engineer
+- 📊 I am currently studying Python, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Connect with me on 
+
+[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/luis-sandoval-vilcapoma/)
+
+## Algunos proyectos
